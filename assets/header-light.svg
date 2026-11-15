@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Xiaonan Li</title>
+  <desc id="desc">Building useful software, exploring how it works. A quiet violet geometric illustration accompanies the title.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="960" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F6FC"/>
+      <stop offset="1" stop-color="#EEE9F8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="730" y1="30" x2="850" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A48BCC"/>
+      <stop offset="1" stop-color="#78609F"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="220" rx="16" fill="url(#background)"/>
+  <path d="M42 56V164" stroke="#9980BE" stroke-width="3" stroke-linecap="round"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="68" y="108" fill="#282332" font-size="52" font-weight="650" letter-spacing="-1.5">Xiaonan Li</text>
+    <text x="70" y="149" fill="#655D74" font-size="21">Building useful software, exploring how it works.</text>
+  </g>
+  <g stroke="url(#accent)" stroke-width="1.5">
+    <circle cx="796" cy="110" r="72" opacity=".22"/>
+    <circle cx="796" cy="110" r="47" opacity=".35"/>
+    <ellipse cx="796" cy="110" rx="88" ry="32" transform="rotate(-38 796 110)" opacity=".65"/>
+    <ellipse cx="796" cy="110" rx="88" ry="32" transform="rotate(38 796 110)" opacity=".35"/>
+    <path d="m786 99-11 11 11 11m20-22 11 11-11 11" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="856" cy="57" r="5" fill="#9275B9"/>
+  <circle cx="736" cy="163" r="3.5" fill="#B7A2D1"/>
+  <circle cx="796" cy="38" r="2.5" fill="#B7A2D1"/>
+</svg>
