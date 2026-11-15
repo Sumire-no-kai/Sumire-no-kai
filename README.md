@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/xiaonan-li-utokyo/">LinkedIn</a>
 </p>
 
-I'm a Master of Computer Science student at the **University of Sydney**, focused on data science and AI. I build Android apps and developer tools, and explore how language models work and how to test the security of AI agents.
+I'm a **Computer Science student**. I build Android apps and developer tools, and explore how language models work and how to test the security of AI agents.
 
 ### Selected work
 
@@ -32,4 +32,4 @@ I contribute to **[Qwen Code](https://github.com/QwenLM/qwen-code)**. A couple o
 
 ---
 
-<p align="center"><sub>Based in Sydney · Building, learning, and sharing the process.</sub></p>
+<p align="center"><sub>Building, learning, and sharing the process.</sub></p>
