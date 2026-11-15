@@ -16,8 +16,9 @@ I'm a **Computer Science student**. I build Android apps and developer tools, an
 | Project | What it's about | Built with |
 | :--- | :--- | :--- |
 | **[Vesqen](https://github.com/Sumire-no-kai/Vesqen)** | An offline Android music player that shows how each track reaches your headphones. | Kotlin · Jetpack Compose · Media3 |
-| **[RedCell](https://github.com/Sumire-no-kai/RedCell)** | Security evaluation for tool-using AI agents, with reproducible findings and regression tests. | Python · asyncio · SQLite |
+| **[SkyLink](https://skylink.sumirenokai.com/)** | Sends files, folders and text directly between nearby devices. **Closed source · In development.** | Kotlin · Jetpack Compose |
 | **[GPT-2 from Scratch](https://github.com/Sumire-no-kai/GPT2-from-scratch)** | Learning language model internals by implementing GPT-2 and documenting the process. | Python · PyTorch |
+| **[RedCell](https://github.com/Sumire-no-kai/RedCell)** | Security evaluation for tool-using AI agents, with reproducible findings and regression tests. | Python · asyncio · SQLite |
 
 Also building **[Note Portal](https://github.com/Sumire-no-kai/Personal-Study-Portal-Framework)**, a reader for local Markdown notes with search and math rendering.
 
