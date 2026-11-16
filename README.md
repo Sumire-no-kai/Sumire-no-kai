@@ -15,12 +15,12 @@ I'm a **Computer Science student**. I build Android apps and developer tools, an
 
 | Project | What it's about | Built with |
 | :--- | :--- | :--- |
-| **[Vesqen](https://github.com/Sumire-no-kai/Vesqen)** | An offline Android music player that shows how each track reaches your headphones. | Kotlin · Jetpack Compose · Media3 |
-| **[SkyLink](https://skylink.sumirenokai.com/)** | Sends files, folders and text directly between nearby devices. **Closed source · In development.** | Kotlin · Jetpack Compose |
-| **[GPT-2 from Scratch](https://github.com/Sumire-no-kai/GPT2-from-scratch)** | Learning language model internals by implementing GPT-2 and documenting the process. | Python · PyTorch |
-| **[RedCell](https://github.com/Sumire-no-kai/RedCell)** | Security evaluation for tool-using AI agents, with reproducible findings and regression tests. | Python · asyncio · SQLite |
+| **[Vesqen](https://github.com/Sumire-no-kai/Vesqen)** | An offline Android music player for local libraries, with lyrics, playlists, and an inspectable audio playback chain. | Kotlin · Jetpack Compose · Media3 |
+| **[SkyLink](https://skylink.sumirenokai.com/)** | An Android app for direct, encrypted sharing of files, folders, and text between nearby devices. **Closed source · In development.** | Kotlin · Jetpack Compose |
+| **[GPT-2 from Scratch](https://github.com/Sumire-no-kai/GPT2-from-scratch)** | A step-by-step GPT-2 implementation in PyTorch, with notes on model internals, implementation decisions, and experiments. | Python · PyTorch |
+| **[RedCell](https://github.com/Sumire-no-kai/RedCell)** | A research toolkit for testing prompt injection, data leaks, and unauthorized tool use in AI agents, with reproducible traces and regression tests. | Python · asyncio · SQLite |
 
-Also building **[Note Portal](https://github.com/Sumire-no-kai/Personal-Study-Portal-Framework)**, a reader for local Markdown notes with search and math rendering.
+Also building **[Note Portal](https://github.com/Sumire-no-kai/Personal-Study-Portal-Framework)**, a desktop reader for local Markdown folders, with search, LaTeX math, and saved reading positions. **Windows beta · Experimental Apple Silicon macOS preview.**
 
 ### Open source
 
