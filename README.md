@@ -11,6 +11,8 @@
 
 I'm a **Computer Science student**. I build Android apps and developer tools, and explore how language models work and how to test the security of AI agents.
 
+> **Open to internships in full-stack development and AI.**
+
 ### Selected work
 
 | Project | What it's about | Built with |
