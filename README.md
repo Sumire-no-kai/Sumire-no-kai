@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Xiaonan Li — building useful software, exploring how it works">
+  <img src="assets/header-light.svg" width="100%" alt="Xiaonan — building useful software, exploring how it works">
 </picture>
 
 <p align="center">
