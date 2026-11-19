@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-banner-dark.svg">
-  <img src="assets/profile-banner-light.svg" width="100%" alt="Xiaonan — building useful software, exploring how it works">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/sumire-studio-banner-dark.svg">
+  <img src="assets/sumire-studio-banner-light.svg" width="100%" alt="Sumire Studio — building useful software, exploring how it works">
 </picture>
 
 <p align="center">
